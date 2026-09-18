@@ -3,7 +3,7 @@
 import { Share2 } from 'lucide-react';
 import { useState } from 'react';
 
-const X_PROFILE_URL = 'https://x.com/ak_CoC_';
+const X_PROFILE_URL = 'https://x.com/aoko_works';
 
 export function SocialActions() {
   const [copied, setCopied] = useState(false);
